@@ -11,7 +11,7 @@ User can click on a question to hide the answer
 
 🚀 Getting Started:
 To get started with the project, simply clone the repository and open the index.html file in your web browser.
-Or you can use live link - 
+Or you can use live link - https://beka-michitashvili.github.io/FAQ-Accordion/
 
 🔧 Technologies:
 The project uses the following technologies:
